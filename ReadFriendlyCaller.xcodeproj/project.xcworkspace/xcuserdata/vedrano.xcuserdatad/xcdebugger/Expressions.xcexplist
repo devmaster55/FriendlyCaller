@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ImagePickerController.viewDidAppear(Bool) -&gt; ():ImagePickerController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SelectedPhotoViewController.viewDidLayoutSubviews() -&gt; ():SelectedPhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+            <PersistentString
+               value = "imageSizeTopLeftConstraint">
+            </PersistentString>
+            <PersistentString
+               value = "imageSizeBottomRightConstraint">
+            </PersistentString>
+            <PersistentString
+               value = "image.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "self.image.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectedPhotoViewController.initializeSelectionPointPositions() -&gt; ():SelectedPhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageSizeTopLeftConstraint">
+            </PersistentString>
+            <PersistentString
+               value = "imageSizeBottomRightConstraint">
+            </PersistentString>
+            <PersistentString
+               value = "self.image.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(didPressAdd(ViewController) -&gt; (AnyObject) -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagePickerController.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectedPhotoViewController.didPressAddContact(AnyObject) -&gt; ():SelectedPhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Session.current().contacts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Session.restore() -&gt; ():Session.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "restoreKeyName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectedPhotoViewController.didPressCrop(AnyObject) -&gt; ():SelectedPhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cornerTopLeft.center">
+            </PersistentString>
+            <PersistentString
+               value = "originImage.imageOrientation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectedPhotoViewController.viewDidLoad() -&gt; ():SelectedPhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageSizeTopLeftConstraint">
+            </PersistentString>
+            <PersistentString
+               value = "imageSizeBottomRightConstraint">
+            </PersistentString>
+            <PersistentString
+               value = "cornerTopLeft.center">
+            </PersistentString>
+            <PersistentString
+               value = "cornerBottomRight.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectedPhotoViewController.redrawSelectionLayer() -&gt; ():SelectedPhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageSizeTopLeftConstraint">
+            </PersistentString>
+            <PersistentString
+               value = "image.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectedPhotoViewController.didPanCorner(UIPanGestureRecognizer) -&gt; ():SelectedPhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "corner.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Session.archive() -&gt; ():Session.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "f">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContactViewController.didPressPhone(AnyObject) -&gt; ():ContactViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;tel://\(contact.cellularNumber)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Session.(archive(Session.Type) -&gt; () -&gt; ()).(closure #1):Session.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sessionCurrent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

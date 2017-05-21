@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Enter Phone Number"; ObjectID = "42a-C1-HjB"; */
+"42a-C1-HjB.text" = "Enter Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Select from Gallery"; ObjectID = "I6R-Vj-r6b"; */
+"I6R-Vj-r6b.normalTitle" = "Select from Gallery";
+
+/* Class = "UIButton"; normalTitle = "SAVE CONTACT"; ObjectID = "Lfx-14-Wgq"; */
+"Lfx-14-Wgq.normalTitle" = "SAVE CONTACT";
+
+/* Class = "UIButton"; normalTitle = "Take Photo"; ObjectID = "Qyi-N1-61s"; */
+"Qyi-N1-61s.normalTitle" = "Take Photo";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "dXP-g0-8a6"; */
+"dXP-g0-8a6.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "No Photo selected"; ObjectID = "wL8-bJ-9T2"; */
+"wL8-bJ-9T2.text" = "No Photo selected";
+
+/* Class = "UIButton"; normalTitle = "Crop"; ObjectID = "yV7-hF-DOo"; */
+"yV7-hF-DOo.normalTitle" = "Crop";

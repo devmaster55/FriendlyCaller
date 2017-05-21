@@ -1,0 +1,48 @@
+/*
+ Localizable.strings
+ ReadFriendlyCaller
+ 
+ Created by Ou Yang Shao Bo on 2/29/16.
+ Copyright © 2016 Vedran Ozir. All rights reserved.
+ */
+
+"Choose Your Language"                  = "";
+
+"Set Master Password"                   = "Establecer Contraseña Maestra";
+"Change Master Password"                = "Cambiar la contraseña maestra";
+"Master Permission Required"            = "Se requiere autorización maestra";
+"Do you want to delete this contact?"   = "¿Desea eliminar este contacto?";
+
+"Invalid Password."                     = "Contraseña incorrecta.";
+"Invalid Old Password"                  = "Antigua contraseña incorrecta";
+"Invalid New Password"                  = "Nueva contraseña incorrecta";
+"Invalid Confirm Password"              = "Confirmar la contraseña incorrecta";
+"New Password Has Been Set"             = "La nueva contraseña ha sido establecida";
+"Please input master password."         = "Introduzca la contraseña maestra.";
+
+"Old password:"             = "Antigua contraseña:";
+"New password:"             = "Nueva contraseña:";
+"Confirm password:"         = "Confirmar la contraseña:";
+"Password hint:"            = "Indicio para la contraseña:";
+
+"Yes"       = "Sí";
+"No"        = "No";
+"OK"        = "Aceptar";
+"Cancel"    = "Cancelar";
+"Warning!"  = "Advertencia!";
+
+"Take Photo"            = "Tomar foto";
+"Select from Gallery"   = "Seleccionar de la galería";
+"No Photo selected"     = "Ninguna foto seleccionada";
+"Crop"                  = "Ajustar";
+"Enter Phone Number"    = "Ingresar número telefónico";
+"SAVE CONTACT"          = "Guardar contacto";
+
+"From Your Address Book"    = "De su libreta de direcciones";
+"New"                       = "Nuevo";
+"Choose Phone Number"       = "Elegir Número de Teléfono";
+
+"Settings"      =   "Ajustes";
+"Language"      =   "Idiomas";
+"Restore old contacts?"     =   "¿Restablecer contactos antiguos?";
+"Restoring..."     =   "La restauración ...";

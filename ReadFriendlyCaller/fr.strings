@@ -1,0 +1,48 @@
+/*
+ Localizable.strings
+ ReadFriendlyCaller
+ 
+ Created by Ou Yang Shao Bo on 2/29/16.
+ Copyright © 2016 Vedran Ozir. All rights reserved.
+ */
+
+"Choose Your Language"                  = "";
+
+"Set Master Password"                   = "Définissez votre mot de passe principal";
+"Change Master Password"                = "Changer le mot de passe";
+"Master Permission Required"            = "Autorisation administrateur requise";
+"Do you want to delete this contact?"   = "Voulez-vous supprimer ce contact?";
+
+"Invalid Password."                     = "Mot de passe incorrect.";
+"Invalid Old Password"                  = "Ancien mot de passe incorrect";
+"Invalid New Password"                  = "Nouveau mot de passe incorrect";
+"Invalid Confirm Password"              = "Confirmez le mot de passe incorrect";
+"New password has been set"             = "Le nouveau mot de passe a été enregistré";
+"Please input master password."         = "Veuillez entrer le mot de passe administrateur.";
+
+"Old password:"             = "Ancien mot de passe:";
+"New password:"             = "Nouveau mot de passe:";
+"Confirm password:"         = "Confirmez le mot de passe:";
+"Password hint:"            = "Question secrète du mot de passe:";
+
+"Yes"       = "Oui";
+"No"        = "Non";
+"OK"        = "OK";
+"Cancel"    = "Annuler";
+"Warning!"  = "Attention!";
+
+"Take Photo"            = "Prendre une photo";
+"Select from Gallery"   = "Sélectionnez dans la Galerie";
+"No Photo selected"     = "Aucune photo sélectionnée";
+"Crop"                  = "Rogner";
+"Enter Phone Number"    = "Saisir le numéro de téléphone";
+"SAVE CONTACT"          = "Enregistrer le contact";
+
+"From Your Address Book"    = "À partir de votre carnet d'adresses";
+"New"                       = "Nouveau";
+"Choose Phone Number"       = "Choisissez un numéro de téléphone";
+
+"Settings"      =   "Paramètres";
+"Language"      =   "Langues";
+"Restore old contacts?"     =   "Restaurer les anciens contacts?";
+"Restoring..."     =   "Restauration ...";
